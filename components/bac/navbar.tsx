@@ -42,7 +42,7 @@ function Logo({ compact = false }: { compact?: boolean }) {
             compact ? "text-sm" : "text-[15px]"
           }`}
         >
-          BLUE ABYSS
+          EVERY DIVE
         </span>
         <span className="mt-1 block text-[9px] font-semibold tracking-[0.5em] text-lagoon-300/90">
           FREEDIVING · BAC
